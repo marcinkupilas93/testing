@@ -1,2 +1,0 @@
-this is going to be merged
-this is text from branch 2
